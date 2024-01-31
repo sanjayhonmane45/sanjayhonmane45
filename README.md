@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="P01-31_09-08-51.jpg" alt="aws" width="15%">
 <h1 align="left">Sanjay Honmane</h1>
 Java Developer || 8007286643 || Pune, Maharashtra <br>
 <a href = "mailto: sanjayhonmane45@gmail.com">sanjayhonmane45@gmail.com</a><br>
-
 
 <h1 align="left">Professional Summary:</h1>
 
@@ -39,11 +39,15 @@ Java Developer || 8007286643 || Pune, Maharashtra <br>
 
 <h1 align="left">Work Experience:</h1>
 
-<h3>Senior Software Engineer <br>
-	Capgemini India Pvt. Ltd. <br>
-	January 2022 to till date.</h3>
-<h4>Role: API Developer</h4>
-<h4>Responsibilities:</h4>
+<div style="display: flex; justify-content: space-between;">
+<div align="right" style="border: 1px solid #ccc; padding: 10px; margin: 5px;">January 2022 to Present.</div>
+  <div style="border: 1px solid #ccc; padding: 10px; margin: 5px;">
+	<h4>Designation:Senior Software Engineer <br>
+	    Company:Capgemini India Pvt. Ltd.<br>
+		Role: API Developer</h4>
+	<h4>Responsibilities:</h4>
+  </div>
+</div>
 <ul>
 	<li>Involved in gathering the requirements, analysis, design & development of the project</li>
 	<li>Implemented RESTful APIs to facilitate seamless communication between different components of the applications, ensuring high performance and reliability.</li>
